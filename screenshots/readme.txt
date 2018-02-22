@@ -1,1 +1,0 @@
-used to hold screenshot images
