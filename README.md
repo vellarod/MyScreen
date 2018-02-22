@@ -6,11 +6,11 @@ Let others watch your screen from their own computer. Designed to work in a LAN 
   - Designed to be used by Teachers/Lecturers
  
 
-# New Features!
+### New Features!
 
   - Saves IP address of server in a text file called serverip.txt
   
-# Installation on XUbuntu
+### Installation on XUbuntu
 
 ```sh
   sudo apt-get update
@@ -20,10 +20,10 @@ Let others watch your screen from their own computer. Designed to work in a LAN 
   sudo apt-get install scrot
   sudo npm i desktop-screenshot
 ```
-# Installation on Windows
+### Installation on Windows
   - Install Node.Js https://nodejs.org/en/download/
 
-# How to Run
+### How to Run
 - Download and extract code
 - Open terminal in extracted folder
 - Type: node server.js
