@@ -26,7 +26,7 @@ Let others watch your screen from their own computer. Designed to work in a LAN 
 - Download and extract code
 - Open terminal in extracted folder
 - For first time only: sudo npm i desktop-screenshot
-- To run server: node server.js
+- To run server: sudo node server.js
 - Use ifconfig/ipconfig to get your ip address. Link: http://ipaddress:3000
 - You can also open the file serverip.txt to get your server link.
 
